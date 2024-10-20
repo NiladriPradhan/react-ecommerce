@@ -1,0 +1,19 @@
+.img_styles{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    /* height: calc(100% - 100px); */
+    height: 80vh;
+    justify-content: center;
+}
+
+.img_styles Button{
+    color: aliceblue !important;
+    border-radius: 30px !important ;
+    margin-top: 5px;
+}
+.img_styles Button:hover{
+    box-shadow: 2px 2px 5px black;
+
+}

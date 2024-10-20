@@ -1,0 +1,15 @@
+.banner {}
+
+h2 {
+    /* font-size: 3rem !important; */
+}
+
+h1::first-letter {
+    /* font-size: 200%; */
+    color: red;
+}
+
+.textChris {
+    line-height: 2px !important;
+    color: blue;
+}

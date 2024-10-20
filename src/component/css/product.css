@@ -1,0 +1,14 @@
+.card-body p{
+    font-size: 1rem;
+}
+
+.card-text{
+    /* background-color: blue; */
+}
+
+.product_card{
+    background-color: yellowgreen;
+    justify-content: center;
+    align-items: center;
+    color: rgb(80, 72, 72);
+}

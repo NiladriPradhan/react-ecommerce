@@ -1,0 +1,15 @@
+form {
+    /* width: 33%; */
+    margin: auto;
+    /* border: 1px solid #b4a1a1bc; */
+    border-radius: 8px;
+    padding: 1.5rem;
+}
+
+label {
+    font-size: 1.2rem;
+}
+
+form:hover{
+    transition: ;
+}
